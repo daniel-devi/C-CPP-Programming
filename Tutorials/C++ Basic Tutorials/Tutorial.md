@@ -1311,7 +1311,7 @@
   - **Definition**
 	1. It is a special type of variable which is used to store the address of another variable
 	2. It can store the address of same data types (i.e an integer pointer can store the address of integer variable, character pointer can store the address of character variable and so on)
-	3. If we add asterik(*) symbol with anny variable at the time of dclaring variable, then this variable is called "pointer variable"
+	3. If we add asterik(*) symbol with any variable at the time of declaring variable, then this variable is called "pointer variable"
 	4. We use ampersand symbol to get the address of variable
 	5. * symbol is used to get the value at address which is hold by pointer
 
